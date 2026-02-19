@@ -5,11 +5,6 @@ An escape room VR game made in Unity for CS 417 MP1.
 ## Contributors
 - aaronw9
 
-## How to Play
-- Collect the keys and solve puzzles to escape.
-- Controls:
-  - (write your VR controls here, e.g., grab, interact, teleport, etc.)
-
 ## Links
 - Itch.io page: https://aaronw9.itch.io/mp1-escape-room
 - Gameplay video: https://youtu.be/dA8gmUuI3ik
@@ -19,5 +14,3 @@ An escape room VR game made in Unity for CS 417 MP1.
 - Unity version:6000.6.3f1
 - Target platform: Android
 
-## Notes
-- Any known issues or special instructions.
